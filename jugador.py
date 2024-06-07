@@ -1,3 +1,5 @@
+# jugador.py
+
 MAX_ENERGY = 100
 MIN_ENERGY = 0
 
