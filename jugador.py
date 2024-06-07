@@ -1,7 +1,6 @@
-
-
 MAX_ENERGY = 100
 MIN_ENERGY = 0
+
 
 class Player:
     def __init__(self, idPlayer: int, nickName: str):
@@ -41,6 +40,7 @@ class Player:
         new_energy = self.__energy + charge
         self.__set_energy(new_energy)
         return charge, self.__energy
+
 
 if __name__ == "__main__":
     jugador = Player(1, "Jugador1")
