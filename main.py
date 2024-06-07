@@ -1,3 +1,5 @@
+# main.py
+
 from jugador import Player
 from game import Game
 
