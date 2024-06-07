@@ -1,3 +1,5 @@
+# game.py
+
 import random
 from jugador import Player
 
